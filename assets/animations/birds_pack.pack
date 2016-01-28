@@ -1,0 +1,243 @@
+
+birds_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+laughbird0
+  rotate: false
+  xy: 1, 438
+  size: 415, 528
+  orig: 415, 528
+  offset: 0, 0
+  index: -1
+laughbird1
+  rotate: false
+  xy: 418, 438
+  size: 415, 528
+  orig: 415, 528
+  offset: 0, 0
+  index: -1
+06red_bird
+  rotate: false
+  xy: 1, 336
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+08red_bird
+  rotate: false
+  xy: 1, 336
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+10red_bird
+  rotate: false
+  xy: 1, 336
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+07red_bird
+  rotate: false
+  xy: 835, 866
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+09red_bird
+  rotate: false
+  xy: 1, 234
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+11red_bird
+  rotate: false
+  xy: 123, 336
+  size: 120, 100
+  orig: 120, 100
+  offset: 0, 0
+  index: -1
+00blue_bird
+  rotate: false
+  xy: 835, 764
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+01blue_bird
+  rotate: false
+  xy: 1, 132
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+02blue_bird
+  rotate: false
+  xy: 123, 234
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+03blue_bird
+  rotate: false
+  xy: 245, 336
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+04blue_bird
+  rotate: false
+  xy: 835, 662
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+05blue_bird
+  rotate: false
+  xy: 1, 30
+  size: 112, 100
+  orig: 112, 100
+  offset: 0, 0
+  index: -1
+25star_bird
+  rotate: false
+  xy: 115, 132
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+26star_bird
+  rotate: false
+  xy: 237, 234
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+27star_bird
+  rotate: false
+  xy: 359, 336
+  size: 110, 100
+  orig: 110, 100
+  offset: 0, 0
+  index: -1
+legs0
+  rotate: false
+  xy: 835, 550
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+legs1
+  rotate: false
+  xy: 835, 438
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+12yellow_bird
+  rotate: false
+  xy: 115, 30
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+14yellow_bird
+  rotate: false
+  xy: 115, 30
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+16yellow_bird
+  rotate: false
+  xy: 115, 30
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+13yellow_bird
+  rotate: false
+  xy: 227, 132
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+15yellow_bird
+  rotate: false
+  xy: 349, 234
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+17yellow_bird
+  rotate: false
+  xy: 471, 336
+  size: 106, 100
+  orig: 106, 100
+  offset: 0, 0
+  index: -1
+18burned_bird
+  rotate: false
+  xy: 223, 21
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+19burned_bird
+  rotate: false
+  xy: 335, 123
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+20burned_bird
+  rotate: false
+  xy: 457, 225
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+21burned_bird
+  rotate: false
+  xy: 579, 327
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+22burned_bird
+  rotate: false
+  xy: 681, 327
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+23burned_bird
+  rotate: false
+  xy: 783, 327
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+24burned_bird
+  rotate: false
+  xy: 325, 12
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+legs2
+  rotate: false
+  xy: 437, 113
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+legs3
+  rotate: false
+  xy: 427, 1
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1

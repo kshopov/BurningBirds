@@ -1,0 +1,180 @@
+
+button_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonhighscore
+  rotate: false
+  xy: 1, 807
+  size: 520, 180
+  orig: 520, 180
+  offset: 0, 0
+  index: -1
+buttonexit
+  rotate: false
+  xy: 1, 625
+  size: 350, 180
+  orig: 350, 180
+  offset: 0, 0
+  index: -1
+buttonplay
+  rotate: false
+  xy: 523, 807
+  size: 350, 180
+  orig: 350, 180
+  offset: 0, 0
+  index: -1
+buttonfire
+  rotate: false
+  xy: 1, 423
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+boxchickenlegs
+  rotate: false
+  xy: 1, 217
+  size: 164, 204
+  orig: 164, 204
+  offset: 0, 0
+  index: -1
+buttonback
+  rotate: false
+  xy: 353, 691
+  size: 200, 114
+  orig: 200, 114
+  offset: 0, 0
+  index: -1
+buttondown
+  rotate: false
+  xy: 555, 693
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+reload
+  rotate: false
+  xy: 875, 837
+  size: 142, 150
+  orig: 142, 150
+  offset: 0, 0
+  index: -1
+buttonup
+  rotate: false
+  xy: 1, 103
+  size: 180, 112
+  orig: 180, 112
+  offset: 0, 0
+  index: -1
+gplay_games_controller
+  rotate: false
+  xy: 203, 503
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+sharebutton
+  rotate: false
+  xy: 737, 705
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+gplusshare
+  rotate: false
+  xy: 1, 6
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 98, 1
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 203, 401
+  size: 79, 100
+  orig: 79, 100
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 353, 589
+  size: 78, 100
+  orig: 78, 100
+  offset: 0, 0
+  index: -1
+0
+  rotate: false
+  xy: 433, 589
+  size: 77, 100
+  orig: 77, 100
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 512, 589
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 590, 591
+  size: 76, 100
+  orig: 76, 100
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 668, 591
+  size: 71, 100
+  orig: 71, 100
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 741, 603
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 284, 401
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 839, 705
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+buttonmusicoff
+  rotate: false
+  xy: 811, 636
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+buttonmusicon
+  rotate: false
+  xy: 325, 520
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+buttonpause
+  rotate: false
+  xy: 397, 527
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+
+drill_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+drill_bot0
+  rotate: false
+  xy: 1, 1
+  size: 87, 1000
+  orig: 87, 1000
+  offset: 0, 0
+  index: -1
+drill_bot1
+  rotate: false
+  xy: 90, 1
+  size: 87, 1000
+  orig: 87, 1000
+  offset: 0, 0
+  index: -1
+drill_top0
+  rotate: false
+  xy: 179, 1
+  size: 87, 1000
+  orig: 87, 1000
+  offset: 0, 0
+  index: -1
+drill_top1
+  rotate: false
+  xy: 268, 1
+  size: 87, 1000
+  orig: 87, 1000
+  offset: 0, 0
+  index: -1

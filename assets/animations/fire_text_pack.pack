@@ -1,0 +1,57 @@
+
+fire_text_pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame0
+  rotate: false
+  xy: 1, 1
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+frame5
+  rotate: false
+  xy: 1, 1
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+frame1
+  rotate: false
+  xy: 353, 1
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+
+fire_text_pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame2
+  rotate: false
+  xy: 1, 1
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+frame3
+  rotate: false
+  xy: 353, 1
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
+
+fire_text_pack3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+frame4
+  rotate: false
+  xy: 1, 1
+  size: 350, 600
+  orig: 350, 600
+  offset: 0, 0
+  index: -1
